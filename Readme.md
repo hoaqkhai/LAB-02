@@ -1,9 +1,12 @@
 🛠️ Lab 02 – Phân tích yêu cầu & Thiết kế Use Case (Hotel Booking System)
 📌 Giới thiệu Dự án này được phát triển trong môn Nhập môn Công nghệ Phần mềm.
-Mục tiêu là áp dụng quy trình phát triển phần mềm, từ phân tích yêu cầu, thiết kế, lập trình, kiểm thử và triển khai. 👥 Thành viên nhóm
-🎯 Use Case chính
-Tìm phòng,
+Mục tiêu là áp dụng quy trình phát triển phần mềm, từ phân tích yêu cầu, thiết kế, lập trình, kiểm thử và triển khai.
+👥 Thành viên nhóm
 
+-
+- Lương Hoàng Khải
+  🎯 Use Case chính
+- Tìm phòng,
 - Xem chi tiết phòng
 - Đặt phòng online (Booking)
 - Thanh toán online
